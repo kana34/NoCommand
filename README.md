@@ -1,0 +1,2 @@
+# NoCommand
+Plugin NoCommand
