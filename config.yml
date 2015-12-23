@@ -1,0 +1,14 @@
+# --- NoCommand Config ---
+commande:
+- pl
+- plugins
+- version
+- '?'
+- help
+message:
+  global: Vous ne pouvez pas utiliser cette commande !
+  pl: Vous ne pouvez pas utiliser cette commande !
+  plugins: "Cherche t'es plugin toi meme !"
+  version: "Ca ne te regarde pas !"
+  '?': "Tu cherche quoi ?"
+  help: "Tu cherche de l'aide ?"
